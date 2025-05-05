@@ -67,4 +67,7 @@
 - [ ] Add a final column to display the total or average grade per student.
 - [ ] (Optional) option to export records (e.g., CSV or PDF)
 
-## Student
+## Student > My Assignments
+- [ ] After submission, hide the assignment from the active assignment list.
+- [ ] Move the submitted assignment to the Assignment History section for review and tracking.
+
