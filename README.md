@@ -18,6 +18,11 @@
 - Record timestamp of deletion and reason if necessary.
 - [ ] Filter out inactive users from the login and dashboard logic.
 
+**Admin > Manage Schedules**
+- [ ] Create a schedule management interface for assigning subjects and times to teachers.
+- [ ] Allow CRUD operations (Create, Read, Update, Delete) for each schedule entry.
+- [ ] Ensure schedules include: Teacher Name, Subject, Class, Day, and Time Slot.
+
 ## Teacher
 
 **Assigned Class > Manage Class**
@@ -67,7 +72,13 @@
 - [ ] Add a final column to display the total or average grade per student.
 - [ ] (Optional) option to export records (e.g., CSV or PDF)
 
-## Student > My Assignments
+**Teacher > View Schedules**
+- [ ] Display a read-only view of the teacher’s assigned subject schedules.
+- [ ] Group schedules by day and class for easy readability.
+
+## Student
+
+**Student > My Assignments**
 - [ ] After submission, hide the assignment from the active assignment list.
 - [ ] Move the submitted assignment to the Assignment History section for review and tracking.
 
